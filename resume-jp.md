@@ -11,7 +11,8 @@ Python を利用した Web バックエンド開発の他、 DB 設計やクエ�
 ### 言語（フレームワーク）
 - Python (Django, Django REST framework, Flask)
 - Java (JavaEE, Spring)
-- Javascript (ES2015+, jQuery, Vue.js, Nuxt.js, React, Next.js)
+- PHP
+- Javascript (ES2015+, jQuery, AngularJS, Vue.js, Nuxt.js, React, Next.js)
 - Typescript
 - HTML/CSS (Tailwind CSS, Bulma, Bootstrap)
 - SQL
